@@ -1,0 +1,8 @@
+toString（）方法、
+方法返回值必须是String类型没法试viod
+
+所以如果想直接打印类内的信息，可以直接创建方法public void showInf（）{
+在方法体内直接System.out.println(想要打印的内容)
+}
+如果使用toString（）方法，则必须返回字符串。
+

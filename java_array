@@ -1,0 +1,11 @@
+数组是没法打印内容的，如果调用toString（）方法，会返回数组的地址
+数组的遍历方法为
+array数组
+object some=null；
+for（object obj：array）{
+	some +=obj+“，”；
+}
+这样得到的遍历array的字符串数组。
+
+当数组值为null是，转化成字符串是，会转化为null字符串
+所以很多情况下字符串初始化为空字符穿“”这样可以去处null
