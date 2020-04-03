@@ -1,0 +1,18 @@
+快捷键
+ctrl+shift+r是搜索自己写的内容
+ctrl+shift+t搜索jar包中带有的内容
+ctrl+t是搜索所选类的实现类
+
+
+
+/**+enter是注释的快捷键
+
+main +alt +/是写main方法的快捷键
+
+alt+/是自动提示的快捷键
+
+ctrl 1提示错误信息
+
+syso +alt+/是输出语句的快捷键
+
+ctrl+shift+o自动导入包

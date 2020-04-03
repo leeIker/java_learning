@@ -1,0 +1,7 @@
+用fastjason技术
+JSON.parseObject(String str,GithubUser.class);
+将字符串自动封装成后面的class的对象
+
+
+JSON.toJSONString(Dto dto)
+将对戏那个dto解析成jason数组

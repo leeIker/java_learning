@@ -1,0 +1,3 @@
+List的取值方式是
+List自带的方法get（int index）
+可以取到index处的值

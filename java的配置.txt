@@ -1,0 +1,4 @@
+使用java需要用jdk
+需要配置JAVA_HOME:jdk根目录
+		path：jdk根目录/bin
+		classpath：.:jdk/lib
